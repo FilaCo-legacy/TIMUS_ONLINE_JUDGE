@@ -12,5 +12,7 @@ int main() {
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
 #endif
+	int L, R;
+	scanf("%d%d", &L, &R);
 	return 0;
 }
